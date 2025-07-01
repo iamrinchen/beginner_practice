@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 28 11:43:29 2023
-
-@author: nthakur
+Created on Fri Apr 28 
 """
 
 x=input("Give number")
