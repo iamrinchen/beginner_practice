@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
 Created on Sat Nov 25 23:19:13 2023
-
-@author: nthakur
 """
 
 
