@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
 Created on Fri Jun 23 11:53:45 2023
-
-@author: nthakur
 """
 
 p='iF i AM HAVING AN ICECREAM. hELLO!! ! '
